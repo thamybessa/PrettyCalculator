@@ -9,4 +9,4 @@ I believe this code can be improved but this is my first app. Improvements are w
 Credits:
 Sound effect on buttons: http://soundbible.com/185-Click-Button-2.html
 Thanks to:
-Filipe Santa Rosa for helping me with the calculator design (that has been changed from the suggested desing)
+Filipe Santa Rosa for helping me with the calculator design (that has been changed from the suggested design)
